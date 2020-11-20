@@ -3,7 +3,7 @@
 2. 嵌入式设备端，使用linux gadget configfs脚本，configfs+functionfs自定义接口。
 3. 提供linuxhost 端测试程序（libusb）
 4. 支持windows WCID 免驱动（winusb通用驱动），通过应用访问USB设备（libusb）
-
+5. decie和host端 app均来自linux源码中的例程
 > device：
 > ./test_vendor.sh
 
